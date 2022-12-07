@@ -234,3 +234,8 @@ Menu
     height: 150px;
   }
 }
+
+.active{
+  background: var(--clr-gold);
+  color: var(--clr-white);
+}
